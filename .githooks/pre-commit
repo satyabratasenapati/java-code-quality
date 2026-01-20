@@ -1,0 +1,4 @@
+#!/bin/sh
+# Redirect to the python script
+# py -3 validate_angular.py/
+py -3 scripts/validate_java.py
